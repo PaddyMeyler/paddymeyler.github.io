@@ -1,2 +1,6 @@
 # paddymeyler.github.io
-Test page
+
+Testing GitHub Pages
+
+This is a test page
+
